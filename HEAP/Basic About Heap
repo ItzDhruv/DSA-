@@ -1,0 +1,7 @@
+Identification
+
+1) Kth..........(Key Word)  (Need Max Heap)  PriorityQueue<Integer> pQueue   = new PriorityQueue<Integer>(Collections.reverseOrder());
+
+
+2) Smallest And Largest     (Need Min Heap)   PriorityQueue<Integer> pQueue  = new PriorityQueue<Integer>();
+
